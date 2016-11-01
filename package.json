@@ -1,0 +1,15 @@
+{
+  "name": "ilovecars-ejs-refactored",
+  "version": "1.0.0",
+  "description": "Refactored I Love Cars Application using EJS ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nirdesh",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3"
+  }
+}
